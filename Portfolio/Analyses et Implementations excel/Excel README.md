@@ -8,7 +8,7 @@ Ces fichiers sont une vitrine de ma capacité à utiliser Excel pour analyser de
 
 Chaque fichier Excel est soigneusement organisé et annoté pour faciliter la compréhension. Cependant, le véritable trésor réside dans la capacité d'Excel à offrir une visualisation intuitive et interactive, permettant de mieux comprendre les relations entre les différentes variables et la logique sous-jacente des modèles.
 
-Ces projets vont vous permettre de voir comment Excel peut être utilisé pour résoudre des problèmes d'analyse de données dans différents contextes. Ils démontrent également comment les compétences en Excel peuvent être appliquées pour comprendre, expliquer, et résoudre des problèmes complexes dans le monde réel. 
+Ces projets vont vous permettre de voir comment Excel peut être utilisé pour résoudre des problèmes d'analyse de données financières. Ils démontrent également comment les compétences en Excel peuvent être appliquées pour comprendre, expliquer, et résoudre des problèmes complexes dans le monde réel. 
 
 N'hésitez pas à explorer ces fichiers, à les utiliser comme inspiration pour vos propres projets, ou même à les modifier pour répondre à vos propres besoins. Bonne exploration !
 
