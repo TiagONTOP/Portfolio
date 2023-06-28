@@ -4,22 +4,16 @@ Bienvenue dans mon portfolio de Data Science ! Ici, vous trouverez une collectio
 
 ## Structure du portfolio
 
-Le portfolio est organisé de manière à faciliter la navigation et la recherche des sujets qui vous intéressent. Voici la structure générale que vous trouverez :
+Le portfolio est structuré en trois dossiers principaux pour faciliter la navigation et la recherche des sujets qui vous intéressent. Voici la structure que vous trouverez :
 
-1. **Introduction**
-   - Une introduction générale me présentant et expliquant mes motivations en tant que Data Scientist.
+1. **Fichiers Excel et Notes Explicatives**
+   - Ce dossier contient des fichiers Excel accompagnés de leurs notes explicatives respectives. Chaque fichier est annoté et expliqué en détail.
 
-2. **Projets**
-   - Cette section est le cœur du portfolio, où vous trouverez une liste de projets réalisés. Chaque projet est présenté sous forme de dossier individuel, avec une brève description et des liens vers les fichiers pertinents.
+2. **Analyse des Données Spécifiques à la Finance**
+   - Ce dossier est consacré à l'analyse des données spécifiques à la finance. Vous y trouverez divers projets et analyses réalisés à l'aide de Python et de notebooks Jupyter.
 
-3. **Technologies utilisées**
-   - Une liste des principales technologies que j'ai utilisées dans mes projets, telles que Python, les bibliothèques de Data Science (comme Pandas, NumPy, scikit-learn, etc.), Jupyter Notebook, Excel, etc.
-
-4. **Annotations et explications**
-   - Une partie importante de ce portfolio est la présence d'annotations détaillées dans les codes sources et les notebooks. Chaque projet est accompagné d'explications claires et de commentaires pertinents, visant à fournir une compréhension approfondie des choix méthodologiques et des résultats obtenus.
-
-5. **Contact**
-   - Un moyen de me contacter directement pour toute question, collaboration ou opportunité.
+3. **Divers Projets**
+   - Ce dossier contient une variété de projets de data science. Que ce soient des notebooks ou des fichiers .py, chacun est accompagné d'explications en markdown ou d'un fichier "readme" associé.
 
 ## Utilisation des fichiers
 
@@ -27,7 +21,7 @@ Les fichiers contenus dans ce portfolio sont disponibles en libre accès. Vous �
 
 ## Remarque
 
-Veuillez noter que ce portfolio est une représentation de mon travail jusqu'à la date de son dernier mise à jour. Je continue d'apprendre, de développer mes compétences et d'explorer de nouvelles technologies et méthodes de Data Science. Par conséquent, n'hésitez pas à revenir régulièrement pour découvrir de nouveaux projets et mises à jour.
+Veuillez noter que ce portfolio est une représentation de mon travail jusqu'à la date de sa dernière mise à jour. Je continue d'apprendre, de développer mes compétences et d'explorer de nouvelles technologies et méthodes de Data Science. Par conséquent, n'hésitez pas à revenir régulièrement pour découvrir de nouveaux projets et mises à jour.
 
 Merci d'avoir visité mon portfolio de Data Science ! J'espère que vous trouverez les informations et les réalisations présentées ici intéressantes et inspirantes. Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
 
