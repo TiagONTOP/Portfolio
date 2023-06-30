@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
         actual_time = cleandata.get_clean_mt5_data(['EURUSD'], n_bars=1)
         actual_time = str(actual_time.index.levels[1][0])
-        logic_cond = [actual_time != '?ILUHOI', brk.market_open]
+        logic_cond = [actual_time != last_time, brk.market_open]
 
         if all(logic_cond):
             
